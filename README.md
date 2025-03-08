@@ -64,7 +64,6 @@ I'm a passionate Full Stack Developer who loves turning ideas into reality throu
   <img src="https://discord.c99.nl/widget/theme-4/puskevi.png" width="300"/>
 </a>
 [![BlueSky](https://img.shields.io/badge/BlueSky-diceblox-ff0000?style=for-the-badge&logo=bluesky)](https://bsky.app)
-[![Website](https://img.shields.io/badge/Website-freeflip.gg-ff0000?style=for-the-badge&logo=google-chrome)](https://freeflip.gg)
 [![Portfolio](https://img.shields.io/badge/Portfolio-puskevit.fun-ff0000?style=for-the-badge&logo=google-chrome)](https://puskevit.fun)
 [![Email](https://img.shields.io/badge/Email-rbxpusk@gmail.com-ff0000?style=for-the-badge&logo=gmail)](mailto:rbxpusk@gmail.com)
 
