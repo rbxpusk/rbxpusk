@@ -2,41 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile!;I'm+Puskevit!;Full+Stack+Developer;Full+Stack+Devoloper&center=true&width=380&height=50&color=FF0000">
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Hi, I'm Puskevit
-</h1>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rbxpusk&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=puskevit&style=flat-square&color=ff0000" alt="Profile Views"/>
-</div>
-
-## 👨‍💻 About Me
-
-I'm a passionate Full Stack Developer who loves turning ideas into reality through code. My journey in tech is driven by creativity and the endless possibilities of web development.
-
-### 🚀 What I Do
-
-- 💻 Full Stack Development
-- 🎨 UI/UX Design
-- 🌐 Web Development
-- 📱 Responsive Design
-
-### 🛠️ Tech Stack
-
-TypeScript oh yeah...
-</div>
-
-### 🎯 Current Focus
-
-- Expanding my knowledge in modern web technologies
-- Creating intuitive and beautiful user interfaces
-- Building scalable full-stack applications
-- Exploring new design trends
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rbxpusk&show_icons=true&theme=red&bg_color=0D1117&hide_border=true" alt="GitHub Stats">
@@ -47,11 +12,11 @@ TypeScript oh yeah...
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbxpusk&theme=redical&hide_border=true" alt="Contribution Graph">
 </div>
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <div align="center">
   
-[![Twitter](https://img.shields.io/badge/Twitter-@puskvit-ff0000?style=for-the-badge&logo=twitter)](https://twitter.com/puskvit)
+[![Twitter](https://img.shields.io/badge/Twitter-@puskvit-ff0000?style=for-the-badge&logo=twitter)](https://twitter.com/0xpusk)
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Discord-puskevi-ff0000?style=for-the-badge&logo=discord&logoColor=white&labelColor=black">
   <img src="https://discord.c99.nl/widget/theme-4/puskevi.png" width="300"/>
